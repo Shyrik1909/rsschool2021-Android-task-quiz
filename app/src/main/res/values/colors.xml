@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_orange_100">#D3AA9D</color>
+    <color name="deep_orange_100_light">#E2FFFFEE</color>
+    <color name="deep_orange_100_dark">#cb9b8c</color>
+    <color name="yellow_100">#fff9c4</color>
+    <color name="yellow_100_light">#fffff7</color>
+    <color name="yellow_100_dark">#E8E2A8</color>
+    <color name="light_green_100">#dcedc8</color>
+    <color name="light_green_100_light">#fffffb</color>
+    <color name="light_green_100_dark">#aabb97</color>
+    <color name="cyan_100">#9DCBD1</color>
+    <color name="cyan_100_light">#e5ffff</color>
+    <color name="cyan_100_dark">#72A0A5</color>
+    <color name="deep_purple_100">#d1c4e9</color>
+    <color name="deep_purple_100_light">#fff7ff</color>
+    <color name="deep_purple_100_dark">#DBCEF4</color>
+
+    <color name="red">#FA3131</color>
+    <color name="fire_brick">#BA2A2A</color>
+    <color name="dark_red">#BA0606</color>
+    <color name="crimson">#E32047</color>
+    <color name="salmon">#FA8072</color>
+    <color name="indian_red">#CD5C5C</color>
+
+    <color name="pink">#E2D00AF1</color>
+    <color name="light_pink">#F7D026F4</color>
+    <color name="hot_pink">#F7E869FF</color>\
+    <color name="deep_pink">#9925AE</color>
+    <color name="medium_violet_red">#EBC20BF4</color>
+    <color name="pale_violet_red">#FADF05F8</color>
+
+    <color name="lime_green">#45F845</color>
+    <color name="lime">#0EF60E</color>
+    <color name="pale_green">#68F368</color>
+    <color name="sea_green">#4CB179</color>
+    <color name="dark_green">#FD106E10</color>
+    <color name="forest_green">#37CA37</color>
+
+    <color name="orange_red">#FB4A08</color>
+    <color name="ligth_salamon">#E19273</color>
+    <color name="coral">#F87444</color>
+    <color name="tomato">#FF6347</color>
+    <color name="dark_orange">#FF920D</color>
+    <color name="orange">#FF9800</color>
+
+    <color name="dodger_blue">#1E90FF</color>
+    <color name="corn_flower_blue">#AD6495ED</color>
+    <color name="medium_slate_blue">#7B68EE</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="deep_sky_blue">#C100BFFF</color>
+    <color name="steel_blue">#C44682B4</color>
+
+    <color name="olive_drub">#BBC121</color>
+    <color name="olive">#F0E6D53E</color>
+    <color name="dark_olive_green">#EAF45D</color>
+    <color name="yellow_green">#FDF78A</color>
+    <color name="spring_green">#BCEEF438</color>
+    <color name="green">#E4EFF603</color>
+
+</resources>
